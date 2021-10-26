@@ -21,4 +21,4 @@ The dashaboards created can be found in the `dashboards` folder.
 
 ![Dashboard2](https://raw.githubusercontent.com/caloysius/DVSA_data_analysis/main/dashboard-2.svg)
 
-A small writeup of the above dashboards and my motivation to do the same can be read [here](https://docs.google.com/document/d/1iVk8Vsk9ojgH9qqVkq4NYw2ACAIPRjDma6_ZgNvW6fw/edit?usp=sharing).
+A small writeup of the above dashboards and my motivation to do the same can be read [here](https://www.linkedin.com/pulse/glimpse-uk-driving-test-data-carlin-aloysius).
